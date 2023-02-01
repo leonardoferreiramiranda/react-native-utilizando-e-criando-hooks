@@ -62,10 +62,12 @@ const styles = StyleSheet.create({
         fontSize: 14,
         lineHeight: 22,
         fontWeight: 'bold',
+        color: '#464646'
     },
     distance: {
         fontSize: 12,
-        lineHeight: 19
+        lineHeight: 19,
+        color: '#464646'
     }
 })
 
